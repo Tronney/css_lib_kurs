@@ -1,0 +1,40 @@
+
+.primary{
+color: #0088ce;
+}
+.accent{
+color: #000c25;
+}
+.success{
+color: #ffcc23; 
+}
+.warning{
+color: #db5800;
+}
+.danger{
+color: #d80505;
+}
+.info{
+color: #52cdf3;    
+}
+.primary-bg{
+background-color:#c6d8ff;
+}
+.accent-bg{
+background-color:#052b7e;    
+}
+.success-bg{
+background-color:#f7fa51;    
+}
+.warning-bg{
+background-color:#ec792c;    
+}
+.danger-bg{
+background-color:#ee4343;    
+}
+.info-bg{
+background-color:#7bdcfa;    
+}
+.background{
+background-color:#dcdff8d8;    
+}
