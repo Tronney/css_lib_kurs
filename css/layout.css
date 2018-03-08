@@ -1,0 +1,46 @@
+/*
+FLEXBOX
+*/
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(197, 243, 239);
+    margin: 40px;
+  }
+
+  .flex-box{
+    display: flex;
+    flex-direction: wrap;
+    justify-content: center;
+    background-color: rgb(197, 243, 239);
+    margin: 40px;
+  }
+
+
+
+  .flex-center{
+    display: flex;
+    color: rgba(50, 150, 10, 0.719);
+    align-items: center;
+}
+
+
+  /* slett meg */
+
+  .one{
+      border-style: solid;
+      border-color: rgba(0, 0, 0, 0.973);
+      height: 100px;
+      width: 100px;
+      margin: 10px;
+  }
+
+  .two{
+  border-style:solid;
+  border-color: rgb(0, 0, 0);
+  height: 100px;
+  width: 100px;    
+  margin: 50px;
+  }
